@@ -1,4 +1,4 @@
-# Ignite Content 2018 - by Vlad Catrinescu
+# SharePoint Saturday Denver 2018  - by Vlad Catrinescu
 
 Hello and welcome to the ressource page for my sessions at SPS Denver 2018! Below you can find different ressources for each of my sessions. Each session also has a folder in this repository that you can go in order to download the screenshots, scripts and other files I showed off during the conference!
  
